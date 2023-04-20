@@ -10,7 +10,7 @@ pip install opencv-python opencv-contrib-python
 python bin\RunInfraredTracker.py
 ```
 
-![animation](/img/animation.gif)
+![animation](img/animation.gif)
 
 <hr>
 
